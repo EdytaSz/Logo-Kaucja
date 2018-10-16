@@ -1,4 +1,4 @@
 # Logo Kaucja
  
-Poni¿ej zdjêciê loga kaucja!
-[logo z napisem kaucja](Kaucja-logo.jpg "logo z napisem kaucja")
+PoniÅ¼ej zdjÄ™ciÄ™ loga kaucja
+![logo z napisem kaucja](Kaucja-logo.jpg "logo z napisem kaucja")
